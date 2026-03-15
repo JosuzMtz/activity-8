@@ -31,3 +31,6 @@ New-Item resources\views\layouts\app.blade.php
 
 # migraciones
 php artisan migrate
+
+#server start
+php artisan serve
